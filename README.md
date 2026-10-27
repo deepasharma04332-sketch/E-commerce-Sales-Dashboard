@@ -299,4 +299,4 @@ https://github.com/deepasharma04332-sketch
 
 ## 📄 License
 
-This project is intended primarily for educational and academic purposes
+This project is intended primarily for educational and academic purposes.
